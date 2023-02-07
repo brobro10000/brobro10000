@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=brobro10000&style=flat-square&color=blue" align="center" alt=""/>
+                                                                                                               </div>
 
 <!--
 **brobro10000/brobro10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

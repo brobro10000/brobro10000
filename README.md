@@ -15,10 +15,10 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brobro10000&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brobro10000&layout=compact&theme=vision-friendly-dark)](https://github.com/brobro10000/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brobro10000&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobro10000&show_icons=true&theme=transparent&count_private=true)
+![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobro10000&show_icons=true&theme=transparent&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brobro10000&layout=compact&theme=transparent)](https://github.com/brobro10000/github-readme-stats)
 <!--
 **brobro10000/brobro10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

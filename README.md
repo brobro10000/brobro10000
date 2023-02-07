@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hamzahullah@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/0l5p4qaggzv0htb/HamzahUllahResume012023.pdf?dl=0](https://www.dropbox.com/s/0l5p4qaggzv0htb/HamzahUllahResume012023.pdf?dl=0)
+- 📄 Know about my experiences [here](https://www.dropbox.com/s/0l5p4qaggzv0htb/HamzahUllahResume012023.pdf?dl=0)
 
 - ⚡ Fun fact **Not afraid to try something I've never done before.**
 

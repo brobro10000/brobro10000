@@ -19,6 +19,11 @@
 
 ![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobro10000&show_icons=true&theme=transparent&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brobro10000&layout=compact&theme=transparent)](https://github.com/brobro10000/github-readme-stats)
+
+---
+
+### 📆 Activity :
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brobro10000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **brobro10000/brobro10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

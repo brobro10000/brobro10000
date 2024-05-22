@@ -10,6 +10,8 @@
   </a>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brobro10000&label=Profile%20views&color=0e75b6&style=flat" alt="brobro10000" /> </p>
+
 - 🔭 I’m currently working on **edX and OpenedX**
 
 - 🌱 I’m currently learning **Django, and Django Rest Framework**

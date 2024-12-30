@@ -20,6 +20,6 @@
 
 - 📫 How to reach me **hamzahullah@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.dropbox.com/s/0l5p4qaggzv0htb/HamzahUllahResume012023.pdf?dl=0)
+- 📄 Know about my experiences [here](https://www.dropbox.com/scl/fi/bml3kxysppinwtoq240dx/Resume_Hamzah_Ullah.pdf?rlkey=b2v95rvgd3b1a3p0i9ktymxol&st=emsz2g5v&dl=0)
 
 - ⚡ Fun fact **Not afraid to try something I've never done before.**

@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **edX and OpenedX**
 
-- 🌱 I’m currently learning **Django, and Django Rest Framework**
+- 🌱 I’m currently learning **Java and SpringBoot**
 
-- 💬 Ask me about **React and Paragon**
+- 💬 Ask me about **React and Django**
 
 - 📫 How to reach me **hamzahullah@gmail.com**
 
